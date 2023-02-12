@@ -1,3 +1,9 @@
+"""
+credit to: https://github.com/plotly/dash-sample-apps
+update code to use dash latest version
+
+"""
+
 from textwrap import dedent
 from dash.exceptions import PreventUpdate
 from dash import dcc,html
