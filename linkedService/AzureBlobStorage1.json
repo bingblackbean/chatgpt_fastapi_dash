@@ -1,0 +1,11 @@
+{
+	"name": "AzureBlobStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"containerUri": "https://sixstoragetet.blob.core.windows.net/pictureload",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
