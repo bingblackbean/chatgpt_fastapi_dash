@@ -1,0 +1,9 @@
+{
+	"name": "sixdftest",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a59d8e8d-022a-4618-aef7-19509c34ba10",
+		"tenantId": "e0c403bd-4931-4f8c-830b-b206a9120c3e"
+	}
+}
